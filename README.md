@@ -1,6 +1,9 @@
 # How to use:
+   
+   1.
+   > npm install 
 
-   > npm install
+   2.
    > npx expo start
 
 # AvatarProject — React Native (Expo) Quiz App
