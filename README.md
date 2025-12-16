@@ -142,40 +142,43 @@ AvatarProject/
 ```
 
 ---
-
 ## Screenshots
 
 ### Home
-![Home](screenshots/homepage.jpg)
+<img src="screenshots/homepage.jpg" width="300" />
 
 ---
 
 ### Quiz
 **Vraag**
-![Quiz](screenshots/quiz.jpg)
+
+<img src="screenshots/quiz.jpg" width="300" />
 
 **Correct antwoord**
-![Quiz correct](screenshots/quiz-correct.jpg)
+
+<img src="screenshots/quiz-correct.jpg" width="300" />
 
 **Fout antwoord**
-![Quiz fout](screenshots/quiz-incorrect.jpg)
+
+<img src="screenshots/quiz-incorrect.jpg" width="300" />
 
 ---
 
 ### Resultaat
-![Resultaat](screenshots/resultaat.jpg)
+<img src="screenshots/resultaat.jpg" width="300" />
 
 ---
 
 ### Profiel
-![Profiel](screenshots/profile.jpg)
+<img src="screenshots/profile.jpg" width="300" />
 
 ---
 
 ### Vraag toevoegen
-![Add question](screenshots/add-question.jpg)
+<img src="screenshots/add-question.jpg" width="300" />
 
 ---
 
 ### Endless mode
-![Endless mode](screenshots/endless.jpg)
+<img src="screenshots/endless.jpg" width="300" />
+
